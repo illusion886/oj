@@ -33,7 +33,7 @@ int main() {
 			if (dp[j - a[i]] && !path[j]) path[j] = i;//数字j由i组成
 		}
 	}
-	if (dp[deta] >= 2) cout << "-1";
+	if (dp[deta] >= 2) cout << "-1";//多个解
 	else if (dp[deta] == 0) cout << 0;
 	else print(deta);
 }
