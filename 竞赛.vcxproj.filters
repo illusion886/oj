@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SPFA.cpp">
+    <ClCompile Include="dijkstra.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="st表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
