@@ -140,9 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="SPFA.cpp" />
-    <ClCompile Include="平方数.cpp" />
-    <ClCompile Include="新年趣事之打牌.cpp" />
-    <ClCompile Include="部分和.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
