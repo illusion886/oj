@@ -24,5 +24,8 @@
     <ClCompile Include="新年趣事之打牌.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SPFA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
